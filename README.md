@@ -20,10 +20,10 @@ I am a dedicated Cybersecurity Engineer with over six years of experience specia
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Letus_cyberaware | YouTube" width="22px" src="https://www.youtube.com/@Letus_cyberaware />][youtube]
+[<img align="left" alt=""Letus_cyberaware" | Twitter" width="22px">][twitter]
+[<img align="left" alt=""Letus_cyberaware" | LinkedIn" width="22px" src="https://www.linkedin.com/in/amal-muraleedharan-nair-489539125/" />][linkedin]
+[<img align="left" alt=""Letus_cyberaware" | Instagram" width="22px" src="" />][instagram]
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
