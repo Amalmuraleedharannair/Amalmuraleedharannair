@@ -9,6 +9,7 @@ EX200 Red Hat Certified System Administrator<br>
 Certificate number: 180-165-516<br>
 <h3>Cybersecuity</h3>
 CompTIA Security+ (Expected 10/2024)<br>
+CompTIA Security+ (SY0-701) Cert Prep: 2 Threats, Vulnerabilities, and Mitigations | <a href="https://lnkd.in/gVvvu3HZ">CompTIA Security+ (SY0-701)</a><br>
 <h2>Professional Experiences:</h2>
 <h3>Company: Canadian Tire</h3>
 Title: <strong> Security Engineer</strong>  | Nov/2022 - Present<br>
