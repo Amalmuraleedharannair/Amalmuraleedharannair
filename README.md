@@ -1,10 +1,9 @@
 <h1>Hi, I'm Amal! <br/> <a href="https://www.linkedin.com/in/amal-muraleedharan-nair-489539125/">Cybersecurity Professional</a></h1>
-<h2>![3052 png_860](https://github.com/user-attachments/assets/85f9fe4d-3db6-45ab-808c-a0f33e03c6d5)
-Professional Statements:</h2>
+<h2>Professional Statements:</h2>
 I am Ketmanto Wangsa. I am an Application Support Engineer at a Sydney-based CX consultancy. I provide IT technical support (Azure, Intune, Exchange, Entra ID), database extraction (SQL), and cyber security support. During a remote internship at a leading US supplier, I had the opportunity to serve as both Technical Support and Team Leader of the Sourcing Team. In addition, I completed the IBM Engagement Specialist program to enhance my interpersonal skills. Furthermore, I completed six cybersecurity virtual programs with ANZ, Datacom, Mastercard, AIG, Tata Consultancy, and Telstra. 
 
 Recently, I completed the Google IT Support and Cybersecurity Professional Certificate to pursue my passion for technology and Cybersecurity. The Google IT Support and Cybersecurity Professional Certificate have prepared me for industry-ready jobs. My ultimate goal is to become a Security Analyst. This role suits me because I have strong analytical abilities, persistence, eagerness to learn, a can-do attitude, problem-solving skills, and communication skills to address problems and emerging threats. 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/Amalmuraleedharannair/Algorithms_withPython)
@@ -22,7 +21,7 @@ Recently, I completed the Google IT Support and Cybersecurity Professional Certi
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
