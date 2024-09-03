@@ -7,7 +7,6 @@ I am a dedicated Cybersecurity Engineer with over six years of experience specia
   - [Praciting DS & Algos in Python](https://github.com/Amalmuraleedharannair/Algorithms_withPython)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/Amalmuraleedharannair/4chan-Image-Analysis-Middleware-C964-main) <b><i>(Potentially NSFW)</b></i>
-
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
