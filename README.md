@@ -20,8 +20,8 @@ I am a dedicated Cybersecurity Engineer with over six years of experience specia
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Letus_cyberaware | YouTube" width="22px" src="https://www.youtube.com/@Letus_cyberaware" />][youtube]
-[<img align="left" alt="Letus_cyberaware | LinkedIn" width="22px" src="https://www.linkedin.com/in/amal-muraleedharan-nair-489539125/" />][linkedin]
+[<img align="left" alt="Letus_cyberaware | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Letus_cyberaware | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [youtube]: https://www.youtube.com/@Letus_cyberaware
 [linkedin]: https://www.linkedin.com/in/amal-muraleedharan-nair-489539125/
